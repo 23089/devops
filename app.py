@@ -12,6 +12,8 @@ def home():
 def about():
     return "<h1>À propos</h1><p>Ceci est une application web créée avec Flask.</p>"
 
+def hhh():
+    return "hhhhh"
 
 
 
